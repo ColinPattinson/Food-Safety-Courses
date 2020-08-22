@@ -8,8 +8,8 @@ We currently offer courses on:
 - y
 - z
 
-## Remote! How does that work?
 ![Desk with laptop and notepad on it](https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
+## Remote! How does that work?
 It's really simple to get your organisation or colleagues onto a course, simply;
 
 1. book one of our [upcoming courses](https://www.eventbrite.co.uk/) that best suits you
