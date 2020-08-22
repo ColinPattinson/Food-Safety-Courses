@@ -1,2 +1,2 @@
-# food-safety
-Food safety courses delivered remotely!
+# Remote Food Safety Courses
+Delivered by experts in the comfort of your own home!
